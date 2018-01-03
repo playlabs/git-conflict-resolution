@@ -2,4 +2,8 @@ HIII
 Hello
 GOOD Morning !!!!
 Add new first line “new first line in master” 
+<<<<<<< HEAD
 Add new first line “new first line in master”
+=======
+Add new first line “new first line in branch”
+>>>>>>> dev
