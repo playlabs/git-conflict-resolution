@@ -5,4 +5,10 @@ sample file
 #Add new first line "new first line in branch"
 >>>>>>> manjula-halvi-dev
 Add new first line "new first line in master" 
+<<<<<<< HEAD
 Add new first line "new first line in master"
+=======
+#Add new first line "new first line in branch"
+>>>>>>> dev
+new first line master
+new first line branch
