@@ -4,3 +4,4 @@ sample file
 =======
 #Add new first line "new first line in branch"
 >>>>>>> manjula-halvi-dev
+Add new first line "new first line in master" 
